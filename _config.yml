@@ -9,9 +9,9 @@
 locale                   : "en"
 title                    : "Toni Albuquerque"
 title_separator          : "-"
-name                     : &name "Toni Albuquerque"
+name                     : &name "Antonio Albuquerque"
 description              : &description "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://acalbuquerque.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -64,29 +64,29 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Toni Albuquerque"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "toniAlbuquerque.jpg"
+  bio              : "Hello! I am Toni. Computer Scientist and Software Engineer. I have been a web developer (frontend and backend) since 2007. Starting in 2011, my focus shifted to mobile(iOS) development. In my 7 years as developer, I worked with both public institution (i.e. Federal Police of Brazil) and private IT firms on software development (web and mobile). I'm BS in Computer Science by Catholic University of Pernambuco - Brazil. Nowadays, I work with activities related to mobile software development and I'm a Senior iOS Software Engineer in Avenue Code."
+  location         : "Belo Horizonte-MG, Brazil"
+  email            : "tonis.04@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/acalbuquerque"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://instagram.com/acalbuquerque"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/acalbuquerque"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/1884288/toni-albuquerque"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/acalbuquerque"
   vine             :
   weibo            :
   xing             :
