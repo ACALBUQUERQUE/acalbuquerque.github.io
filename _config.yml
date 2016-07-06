@@ -39,7 +39,7 @@ yandex_site_verification :
 twitter:
   username               : "acalbuquerque"
 facebook:
-  username               :
+  username               : #username
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -65,32 +65,32 @@ google_ad_slot           :
 author:
   name             : "Antonio Albuquerque"
   avatar           : "toniAlbuquerque.jpg"
-  bio              : "Hello! I am Toni. Computer Scientist and Software Engineer. Nowadays, I work with activities related to mobile software development and I'm a Senior iOS Software Engineer in Avenue Code."
+  bio              : "Senior iOS Software Engineer in Avenue Code."
   location         : "Belo Horizonte-MG, Brazil"
   email            : "tonis.04@gmail.com"
   uri              :
-  bitbucket        : 
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  bitbucket        : #username
+  codepen          : #username
+  dribbble         : #username
+  flickr           : #username
+  facebook         : #username
+  foursquare       : #username
   github           : "acalbuquerque"
-  google_plus      :
-  keybase          :
+  google_plus      : #username
+  keybase          : #username
   instagram        : "acalbuquerque"
-  lastfm           :
+  lastfm           : #username
   linkedin         : "acalbuquerque"
-  pinterest        :
-  soundcloud       :
+  pinterest        : #username
+  soundcloud       : #username
   stackoverflow    : "1884288/toni-albuquerque"
-  steam            :
-  tumblr           :
+  steam            : #username
+  tumblr           : #username
   twitter          : "acalbuquerque"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  vine             : #username
+  weibo            : #username
+  xing             : #username
+  youtube          : #username
 
 
 # Reading Files
