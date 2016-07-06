@@ -9,13 +9,13 @@
 locale                   : "en"
 title                    : "ACAlbuquerque"
 title_separator          : "-"
-name                     : &name "Antonio Albuquerque"
-description              : &description "An Personal web box for IT ."
+name                     : &name "Toni Albuquerque"
+description              : &description "A Personal Software Development Toolbox."
 url                      : "https://acalbuquerque.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
@@ -67,7 +67,7 @@ author:
   avatar           : "toniAlbuquerque.jpg"
   bio              : "Senior iOS Software Engineer in Avenue Code."
   location         : "Belo Horizonte-MG, Brazil"
-  email            : "tonis.04@gmail.com"
+  email            : #username
   uri              :
   bitbucket        : #username
   codepen          : #username
@@ -78,7 +78,7 @@ author:
   github           : "acalbuquerque"
   google_plus      : #username
   keybase          : #username
-  instagram        : "acalbuquerque"
+  instagram        : #username
   lastfm           : #username
   linkedin         : "acalbuquerque"
   pinterest        : #username
