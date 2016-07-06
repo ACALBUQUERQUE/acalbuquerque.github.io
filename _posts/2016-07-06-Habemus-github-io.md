@@ -5,17 +5,12 @@ excerpt: "The first post on my Jeykill blog."
 modified: 2016-07-06
 tags: [about, offtopic]
 comments: true
+share: true
+read_time: true
+author_profile: true
+related: true
+type: posts
 ---
-
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
 
 ### This is my first post using Jeykill.
 
