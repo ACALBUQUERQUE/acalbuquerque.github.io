@@ -1,6 +1,6 @@
 ---
-title: About
-layout: page
+title: "About me"
+layout: single
 tags: [about]
 sitemap: true
 comments: false
