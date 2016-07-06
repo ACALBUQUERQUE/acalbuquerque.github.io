@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Habemus Github.io
 excerpt: "The first post on my Jeykill blog."
 modified: 2016-07-06
