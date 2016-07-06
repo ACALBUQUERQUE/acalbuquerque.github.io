@@ -1,17 +1,16 @@
 ---
-title: "Page Not Found"
-layout: single
-excerpt: "Page not found. Your pixels are in another canvas."
-sitemap: false
-permalink: /404.html
+title: About
+layout: page
+tags: [about]
+sitemap: true
+comments: false
+modified: 2016-07-05T20:53:07.573882-04:00
 ---
 
-Sorry, but the page you were trying to view does not exist --- perhaps you can try searching for it below.
+I have been a web developer (frontend and backend) since 2007. Starting in 2011, my focus shifted to mobile(iOS) development. In my 7 years as developer, I worked with both public institution (i.e. Federal Police of Brazil) and private IT firms on software development (web and mobile). 
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+Besides that, I'm one of the founders of [iOSDevBR](http://www.facebook.com/groups/iosdevbr), a study group for iOS knowledge sharing in Brazil. 
+
+I'm BS in Computer Science by [Catholic University of Pernambuco - Brazil](http://www.unicap.br). Nowadays, I work with activities related to mobile software development and I'm a Senior iOS Engineer in [Avenue Code](http://avenuecode.com).
+
+
