@@ -1,11 +1,15 @@
 ---
-title: "Book List"
+title: Book List
 layout: single
-tags: [book, list, queue]
+tags:
+  - book
+  - list
+  - queue
 sitemap: true
 comments: false
-modified: 2016-07-07T20:53:07.573882-04:00
+modified: {}
 author_profile: true
+published: true
 ---
 
 Here I'll post a list of books that I mark as important to me. 
@@ -17,7 +21,7 @@ I'll do my best to categorize that in the best way....but sometimes...you know..
 
 ### Big data, data science, data analysis
 
-* Roger D. Peng. [R Programming for Data Science](https://leanpub.com/rprogramming). [+info and my notes](myNotes/R-programming-data-science)
+* Roger D. Peng. [R Programming for Data Science](https://leanpub.com/rprogramming).[[+info and my notes](myNotes/R-programming-data-science)]
 
 ## Math, Physics, Statistic
 
