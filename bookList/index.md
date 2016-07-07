@@ -17,7 +17,7 @@ I'll do my best to categorize that in the best way....but sometimes...you know..
 
 ### Big data, data science, data analysis
 
-* Roger D. Peng. [R Programming for Data Science](https://leanpub.com/rprogramming).
+* Roger D. Peng. [R Programming for Data Science](https://leanpub.com/rprogramming). [+info and my notes](myNotes/R-programming-data-science)
 
 ## Math, Physics, Statistic
 
