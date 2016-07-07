@@ -17,8 +17,8 @@ I'll do my best to categorize that in the best way....but sometimes...you know..
 
 ### Big data, data science, data analysis
 
---* James, Witten, Hastie, and Tibshirani. [An Introduction To Statistical Learning](http://www-bcf.usc.edu/%7Egareth/ISL/).
+* Roger D. Peng. [R Programming for Data Science](https://leanpub.com/rprogramming).
 
-## IT, Computer Science, Programming
+## Math, Physics, Statistic
 
---* James, Witten, Hastie, and Tibshirani. [An Introduction To Statistical Learning](http://www-bcf.usc.edu/%7Egareth/ISL/).
+* James, Witten, Hastie, and Tibshirani. [An Introduction To Statistical Learning](http://www-bcf.usc.edu/%7Egareth/ISL/).
