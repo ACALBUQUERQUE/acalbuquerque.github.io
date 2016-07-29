@@ -1,5 +1,19 @@
 ---
 published: true
+layout: single
+excerpt: 'ReactiveCocoa and MVVM, an introduction'
+modified: 2016-07-29T00:00:00.000Z
+tags:
+  - iOS
+  - ReactiveCocoa
+  - Design Patterns
+  - MVVM
+comments: true
+share: true
+read_time: true
+author_profile: true
+related: true
+type: posts
 ---
 ## ReactiveCocoa and MVVM, an Introduction
 
