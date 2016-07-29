@@ -2,7 +2,7 @@
 published: true
 layout: single
 excerpt: 'ReactiveCocoa and MVVM, an introduction'
-modified: 2016-07-29T00:00:00.000Z
+modified: {}
 tags:
   - iOS
   - ReactiveCocoa
@@ -21,7 +21,7 @@ Instead have an Massive View Controllers(a little joke with MVC meaning), we can
 
 This image can help us to understand what gonna change.
 
-![]({{site.baseurl}}/http://www.sprynthesis.com/assets/images/MCVMVMV.gif)
+![alt text](http://www.sprynthesis.com/assets/images/MCVMVMV.gif "MVC 2 MVMCV")
 
 The article it's a little bit older but it's awesome(Old but Gold).
 
