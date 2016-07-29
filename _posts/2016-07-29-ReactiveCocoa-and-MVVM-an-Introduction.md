@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## ReactiveCocoa and MVVM, an Introduction
 
