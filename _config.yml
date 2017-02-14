@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Antonio Albuquerque"
-  avatar           : "/images/toniAlbuquerque.jpg"
+  avatar           : "/assets/images/toniAlbuquerque.jpg"
   bio              : "Senior iOS Software Engineer in Avenue Code."
   location         : "Belo Horizonte-MG, Brazil"
   email            : #username
