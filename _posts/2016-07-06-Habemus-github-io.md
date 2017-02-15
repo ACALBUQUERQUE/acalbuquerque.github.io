@@ -8,7 +8,7 @@ comments: true
 share: true
 read_time: true
 author_profile: true
-related: true
+related: false
 type: posts
 ---
 

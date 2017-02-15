@@ -12,7 +12,7 @@ comments: true
 share: true
 read_time: true
 author_profile: true
-related: true
+related: false
 type: posts
 ---
 This article explain why MVC pattern, despite the Apple advise the usage of this pattern, may not be the best approach for medium to big apps.
